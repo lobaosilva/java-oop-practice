@@ -1,4 +1,4 @@
-⁸# **Exercícios de Orientação a Objetos com Java**
+# **Exercícios de Orientação a Objetos com Java**
 
 Bem-vindo ao repositório de **Exercícios de Orientação a Objetos com Java**! Este projeto foi criado como parte do curso _"Java: aplicando a Orientação a Objetos"_ oferecido pela **[Alura](https://www.alura.com.br/)**, com o objetivo de consolidar os principais conceitos da programação orientada a objetos.
 
