@@ -20,7 +20,7 @@ Os exercícios incluem tópicos essenciais da Orientação a Objetos:
 
 | Exercício                          | Descrição                                                                 |
 |------------------------------------|---------------------------------------------------------------------------|
-| **1. Criação de Classes**          | Estrutura básica de classes com atributos e métodos.                     |
+| **1. [Criação de Classes](https://github.com/lobaosilva/java-oop-practice/tree/main/out/production/java-oop-practice/exercico1)**          | Estrutura básica de classes com atributos e métodos.                     |
 | **2. Métodos com Retorno**         | Implementação de métodos que retornam valores específicos.               |
 | **3. Relacionamento entre Classes**| Associação entre objetos por meio de atributos.                          |
 | **4. Herança**                     | Aplicação de herança para reaproveitamento de código.                    |
