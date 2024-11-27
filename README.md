@@ -20,8 +20,8 @@ Os exercícios incluem tópicos essenciais da Orientação a Objetos:
 
 | Exercício                                                                                                                          | Descrição                                                                  |
 |------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| **1. [Criação de Classes](https://github.com/lobaosilva/java-oop-practice/tree/main/out/production/java-oop-practice/exercico1)**  | Estrutura básica de classes com atributos e métodos.                       |
-| **2. [Métodos com Retorno](https://github.com/lobaosilva/java-oop-practice/tree/main/out/production/java-oop-practice/exercico2)** | Implementação de métodos que retornam valores específicos.                 |
+| **1. [Criação de Classes](https://github.com/lobaosilva/java-oop-practice/tree/main/src/exercico1)**  | Estrutura básica de classes com atributos e métodos.                       |
+| **2. [Métodos com Retorno](https://github.com/lobaosilva/java-oop-practice/tree/main/src/exercico2)** | Implementação de métodos que retornam valores específicos.                 |
 | **3. Relacionamento entre Classes**                                                                                                | Associação entre objetos por meio de atributos.                            |
 | **4. Herança**                                                                                                                     | Aplicação de herança para reaproveitamento de código.                      |
 | **5. Polimorfismo**                                                                                                                | Sobrescrita de métodos para alterar comportamentos em subclasses.          |
