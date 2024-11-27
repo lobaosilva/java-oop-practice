@@ -18,18 +18,18 @@ Os exercícios incluem tópicos essenciais da Orientação a Objetos:
 
 ## 📋 **Lista de Exercícios**
 
-| Exercício                          | Descrição                                                                 |
-|------------------------------------|---------------------------------------------------------------------------|
-| **1. [Criação de Classes](https://github.com/lobaosilva/java-oop-practice/tree/main/out/production/java-oop-practice/exercico1)**          | Estrutura básica de classes com atributos e métodos.                     |
-| **2. Métodos com Retorno**         | Implementação de métodos que retornam valores específicos.               |
-| **3. Relacionamento entre Classes**| Associação entre objetos por meio de atributos.                          |
-| **4. Herança**                     | Aplicação de herança para reaproveitamento de código.                    |
-| **5. Polimorfismo**                | Sobrescrita de métodos para alterar comportamentos em subclasses.        |
-| **6. Interface**                   | Uso de interfaces para padronizar funcionalidades.                      |
-| **7. Encapsulamento**              | Proteção de atributos com modificadores de acesso.                      |
-| **8. Sobrecarga de Métodos**       | Implementação de métodos com o mesmo nome e diferentes assinaturas.     |
-| **9. Listagem de Objetos**         | Gerenciamento de coleções e exibição de objetos.                        |
-| **10. Comparação de Objetos**      | Implementação de `equals()` para comparação lógica entre objetos.        |
+| Exercício                                                                                                                          | Descrição                                                                  |
+|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| **1. [Criação de Classes](https://github.com/lobaosilva/java-oop-practice/tree/main/out/production/java-oop-practice/exercico1)**  | Estrutura básica de classes com atributos e métodos.                       |
+| **2. [Métodos com Retorno](https://github.com/lobaosilva/java-oop-practice/tree/main/out/production/java-oop-practice/exercico2)** | Implementação de métodos que retornam valores específicos.                 |
+| **3. Relacionamento entre Classes**                                                                                                | Associação entre objetos por meio de atributos.                            |
+| **4. Herança**                                                                                                                     | Aplicação de herança para reaproveitamento de código.                      |
+| **5. Polimorfismo**                                                                                                                | Sobrescrita de métodos para alterar comportamentos em subclasses.          |
+| **6. Interface**                                                                                                                   | Uso de interfaces para padronizar funcionalidades.                         |
+| **7. Encapsulamento**                                                                                                              | Proteção de atributos com modificadores de acesso.                         |
+| **8. Sobrecarga de Métodos**                                                                                                       | Implementação de métodos com o mesmo nome e diferentes assinaturas.        |
+| **9. Listagem de Objetos**                                                                                                         | Gerenciamento de coleções e exibição de objetos.                           |
+| **10. Comparação de Objetos**                                                                                                      | Implementação de `equals()` para comparação lógica entre objetos.          |
 
 ---
 
@@ -98,7 +98,7 @@ Sugestões de melhorias são sempre bem-vindas! Para contribuir:
 
 ## 📬 **Contato**
 
-📧 E-mail: [lobaocode@outlook.com](mailto:lobaocode@outlook.com)  
+📧 E-mail: [lobao@example.com](mailto:lobao@example.com)  
 🌐 GitHub: [github.com/lobaosilva](https://github.com/lobaosilva)
 
 ---
